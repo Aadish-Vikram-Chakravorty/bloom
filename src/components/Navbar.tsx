@@ -28,6 +28,7 @@ export const Navbar = () => {
                 </div>
                 {/* RIGHT */}
                 <div className='w-[30%] flex items-center justify-end gap-4 xl:gap-8 '>
+                    
                     <MobileMenu />
                 </div>
             </div>
