@@ -17,7 +17,7 @@ export const Navbar = () => {
                         <Image src='/home.png' alt="Homepage" width={16} height={16} className='w-4 h-4' />
                         <span>Homepage</span>
                     </Link>
-                    <Link href="/" className="flex items-center gap-2" >
+                    <Link href="/" className="flex items-center gap-3" >
                         <Image src='/friends.png' alt="Friends" width={16} height={16} className='w-4 h-4' />
                         <span>Friends</span>
                     </Link>
